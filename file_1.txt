@@ -1,3 +1,4 @@
 ini adalah file_1.txt
 
 ini adalah baris tambahan jumlah baris 
+baris ke 4
